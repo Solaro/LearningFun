@@ -1,3 +1,3 @@
 LearningFun-Console-Application:
-	g++ learningfun.cpp -lcurses -lrt -o LearningFun
+	g++ LearningFun.cpp -lcurses -lrt -o LearningFun
 	./LearningFun
